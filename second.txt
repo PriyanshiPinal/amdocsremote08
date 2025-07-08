@@ -4,3 +4,7 @@ ABCDE
 ABCDEF
 ABCDEFG
 ABCDEFGH
+
+
+import pandas as pd
+df=pd.read_csv("Filepath"
